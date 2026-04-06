@@ -191,7 +191,7 @@
         "type": "start",
         "id": "~D}tXQlU1{M6S=%edJVA",
         "x": 10,
-        "y": 391,
+        "y": 390,
         "collapsed": true,
         "inputs": {
           "DO": {
@@ -382,6 +382,50 @@
                 "block": {
                   "type": "switch_animation",
                   "id": "JN!?B@gO[Q[uwJ(9/^bh",
+                  "icons": {
+                    "comment": {
+                      "text": "Switch to an animation\nand keep playing it",
+                      "pinned": false,
+                      "height": 77.14285278320312,
+                      "width": 185.71429443359375
+                    }
+                  },
+                  "fields": {
+                    "MODEL": {
+                      "id": "H]1?IQv^=%_LL!pnT;:Y"
+                    },
+                    "ANIMATION_NAME": "Idle"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "type": "microbit_input",
+        "id": "sYP@S+*#jf)~F;8VGCHf",
+        "x": 46,
+        "y": 1322,
+        "extraState": "<mutation xmlns=\"http://www.w3.org/1999/xhtml\" inline=\"false\"></mutation>",
+        "fields": {
+          "EVENT": "r"
+        },
+        "inputs": {
+          "DO": {
+            "block": {
+              "type": "play_animation",
+              "id": "V@nq)w+=^Cy8##=/PRur",
+              "fields": {
+                "ANIMATION_NAME": "Flip",
+                "MODEL": {
+                  "id": "H]1?IQv^=%_LL!pnT;:Y"
+                }
+              },
+              "next": {
+                "block": {
+                  "type": "switch_animation",
+                  "id": "$PX+s~t7,?M,4Ou4!wuY",
                   "icons": {
                     "comment": {
                       "text": "Switch to an animation\nand keep playing it",
