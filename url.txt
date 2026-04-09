@@ -1,1 +1,1 @@
-https://flipcomputing.github.io/flock/?project=https://raw.githubusercontent.com/dkwdaft/flock-micro-bit/refs/heads/main/main.flock
+https://dkwdaft.github.io/flock-dev/?project=https://raw.githubusercontent.com/dkwdaft/flock-micro-bit/refs/heads/main/main.flock
