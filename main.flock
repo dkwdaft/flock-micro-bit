@@ -71,7 +71,7 @@
                       },
                       "block": {
                         "type": "material",
-                        "id": "MCn*/=b?iSM-7J1tH.*#",
+                        "id": "M8{/q|/tsxk$hO*pYO|?",
                         "fields": {
                           "TEXTURE_SET": "none.png"
                         },
@@ -143,7 +143,7 @@
         "type": "start",
         "id": "G~vQ/tN|{Ty;s`e4+ezQ",
         "x": 10,
-        "y": 318,
+        "y": 310,
         "inputs": {
           "DO": {
             "block": {
@@ -278,7 +278,7 @@
         "type": "start",
         "id": "kG(96u`BOb~N;HCXQgE3",
         "x": 10,
-        "y": 602,
+        "y": 594,
         "inputs": {
           "DO": {
             "block": {
@@ -316,7 +316,7 @@
         "type": "microbit_input",
         "id": "y{6B`4*Oy=`JPhS9!0Pe",
         "x": 10,
-        "y": 818,
+        "y": 810,
         "extraState": "<mutation xmlns=\"http://www.w3.org/1999/xhtml\" inline=\"false\"></mutation>",
         "fields": {
           "EVENT": "i"
@@ -380,7 +380,7 @@
         "type": "microbit_input",
         "id": "iSwlu[Tydlue6T:rcsxO",
         "x": 10,
-        "y": 1034,
+        "y": 1026,
         "extraState": "<mutation xmlns=\"http://www.w3.org/1999/xhtml\" inline=\"false\"></mutation>",
         "fields": {
           "EVENT": " "
@@ -444,7 +444,7 @@
         "type": "microbit_input",
         "id": "4XRz.uSQ1L16=jGa1Bk9",
         "x": 10,
-        "y": 1250,
+        "y": 1242,
         "extraState": "<mutation xmlns=\"http://www.w3.org/1999/xhtml\" inline=\"false\"></mutation>",
         "fields": {
           "EVENT": "q"
@@ -508,7 +508,7 @@
         "type": "microbit_input",
         "id": "m+xse|g4G$K)8m_rXIr]",
         "x": 10,
-        "y": 1466,
+        "y": 1458,
         "extraState": "<mutation xmlns=\"http://www.w3.org/1999/xhtml\" inline=\"false\"></mutation>",
         "fields": {
           "EVENT": "j"
@@ -540,7 +540,7 @@
                   "id": "kt4KHbRsK.re.9Akt.I1",
                   "fields": {
                     "MESH_VAR": {
-                      "id": "Wh2YyBg~m{]A{IhM9McY"
+                      "id": "wS3o8x9I3I=8:GDE;OR3"
                     },
                     "MODE": "ADD",
                     "ASYNC": "START"
@@ -643,10 +643,6 @@
     {
       "name": "monkey",
       "id": "wS3o8x9I3I=8:GDE;OR3"
-    },
-    {
-      "name": "object",
-      "id": "Wh2YyBg~m{]A{IhM9McY"
     }
   ]
 }
